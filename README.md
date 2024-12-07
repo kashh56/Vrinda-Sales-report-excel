@@ -2,6 +2,7 @@
 Data Analysis Project using Excel
 =================================
 The main goal was to perform data cleaning, pre-processing, feature creation, and build a final dashboard using Excel. Below is a detailed breakdown of the key stages involved:
+<img src = "image.png">
 
 Project Overview
 ----------------
